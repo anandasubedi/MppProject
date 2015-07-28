@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="224.0" prefWidth="448.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane>
+         <children>
+            <Button layoutX="74.0" layoutY="100.0" mnemonicParsing="false" text="hello" />
+            <ComboBox layoutY="35.0" prefHeight="25.0" prefWidth="213.0" />
+         </children>
+      </AnchorPane>
+      <CheckBox mnemonicParsing="false" text="CheckBox" />
+   </children>
+</HBox>
